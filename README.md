@@ -5,7 +5,7 @@
 Clone repisitory ini atau download dengan cara [KLIK DISINI](https://github.com/saniji/Tugas-4-PAM/archive/refs/heads/main.zip)
 
 Pertama pilih salat satu file yang ingin dicoba
-- Jika memilih middleware Redux-Thunk maka install terlebih dahulu library-library yang dibutuhkan berikut ini
+## Jika memilih middleware Redux-Thunk maka install terlebih dahulu library-library yang dibutuhkan berikut ini
 ```
 npm install
 ```
@@ -29,3 +29,15 @@ npx expo start
 <img src="https://github.com/saniji/Tugas-4-PAM/blob/main/Image/tampilan_daftar_pesawat_tujuan.jpg" width="300" height="500">
 - Jika data yang dicari tidak ditemukan maka akan tampil seperti berikut
 <img src="https://github.com/saniji/Tugas-4-PAM/blob/main/Image/tampilan_data_tidak_ditemukan.jpg" width="300" height="500">
+
+## Jika memilih middleware Redux-Saga maka install terlebih dahulu library-library yang dibutuhkan berikut ini
+```
+npm install
+```
+```
+npm install redux-saga
+```
+```
+npm install @reduxjs/toolkit
+```
+- Setelah itu jalankan program seperti di atas
