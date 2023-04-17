@@ -25,3 +25,7 @@ npx expo start
 - Selanjutnya scan barcode yang muncul pada terminal dengan menggunakan aplikasi expo (Harus terkoneksi dalam satu jaringan!)
 - Setelah itu maka akan muncul tampilan home pada gambar berikut
 <img src="https://github.com/saniji/Tugas-4-PAM/blob/main/Image/tampilan_home.jpg" width="300" height="500">
+- Jika data yang dicari ditemukan maka akan tampil seperti berikut
+<img src="https://github.com/saniji/Tugas-4-PAM/blob/main/Image/tampilan_daftar_pesawat_tujuan.jpg" width="300" height="500">
+- Jika data yang dicari tidak ditemukan maka akan tampil seperti berikut
+<img src="https://github.com/saniji/Tugas-4-PAM/blob/main/Image/tampilan_data_tidak_ditemukan.jpg" width="300" height="500">
